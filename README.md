@@ -4,6 +4,7 @@
 
 ## Introduction
 안녕하세요
+영남대학교에 재학중입니다
 
-## Links
-- E-mail - jangjunho@yu.ac.kr
+## email
+jangjunho@yu.ac.kr
