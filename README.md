@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysseo29&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction
-안녕하세요.
+안녕하세요
 
 ## Links
 - E-mail - jangjunho@yu.ac.kr
