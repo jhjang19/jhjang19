@@ -6,5 +6,5 @@
 안녕하세요
 영남대학교에 재학중입니다
 
-## email
+## Email
 jangjunho@yu.ac.kr
