@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhjang19&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 자기소개
-안녕하세요
+안녕하세요 제 이름은 장준호입니다
 
 영남대학교에 재학중입니다
 
